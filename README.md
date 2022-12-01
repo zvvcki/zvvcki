@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b>@zvvcki</b>
+- 👋 Hi, I’m <b>Hubert</b>
 - 👨‍🎓 I’m currently learning <b>HTML</b> & <b>CSS</b>
 - 📫 How to reach me zvvcki@gmail.com
 
